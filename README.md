@@ -1,4 +1,7 @@
 # myblog
+
+此项目因为需要openssl证书，node17以及以上版本会强制要求ssl，node17一下版本可以完成
+
 ## 基于Vue.js+element-ui实现的个人博客 
 ### [网站地址](http://www.lf-fish.co/)
 ### 技术栈主要包括```Vue```,```Vuex```,```axios```,```Vue Router```,```Less```。
